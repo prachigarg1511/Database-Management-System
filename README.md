@@ -116,28 +116,6 @@ The following core DBMS topics are included in this assignment:
 
 ---
 
-## 🔹 Folder Structure
-
-```
-DBMS/
-│
-├── SQL_Scripts/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   ├── queries.sql
-│
-├── Screenshots/
-│   ├── table_creation.png
-│   ├── query_output.png
-│
-├── Documentation/
-│   ├── DBMS_Report.pdf
-│
-└── README.md
-```
-
----
-
 ## 🔹 Sample Queries Included
 
 Some important queries implemented in this project:
